@@ -1,4 +1,30 @@
 # TTRABAJO PRATICO N°1 
-# CORDOBA VICTOR
+## CORDOBA VICTOR - 12480
 
+### **FUNDAMENTOS FILOSOFICOS**
+Los filosofos definen la hipotesis de la IA debil como la afirmacion que es posible que las maquinas *actuen* con inteligencia, o mas bien como si fueran inteligentes y tambien existe la hipotesis de la IA Fuerte que afirma que las maquinas *piensan* realmente
+
+Dentro de este resumen del capitulo 26 del libro **AIMA** se le dara un enfoque a estas dos definiciones
+
+### **IA DEBIL: LAS MAQUINAS PUEDEN PENSAR INTELIGENTEMENTE?**
+Dependiendo de la definicion que se le de es posible que exista la IA o no. La IA consiste en la busqueda del mejor programa agente para una arquitectura dada, dando esta definicion la IA **es posible** dado que para un programa de k bits de almacenamiento bastara con probar las 2^k de posibilidades de programas agente para encontrar el mejor.
+
+Los filosofos interesados en el problema plantean la siguiente pregunta *¿Pueden pensar las máquinas?»*. Para responder esta pregunta **Alan Turing** sugirio que en vez de preguntar si las maquinas pueden pensar, deberian ver si las maquinas pueden aprobar un test de inteligencia de comportamiento, el llamado *Test de Turing* 
+
+### **EL ARGUMENTO DE INCAPACIDAD**
+Este argumento afirma que una maquina nunca podra realizar acciones como ser amable, ser guapo, simpatico, tener sentido del himor, distinguir lo correcto de lo erroneo y unas tantas mas 
+
+Lo cierto que es innegable que las computadoras pueden hacer muchas cosas tan bien o mejor que el ser humano, hasta llegar a pensar que pueden realizar tarear que requieren intuicion o entendimiento humano, como jugar al ajedrez, a las damas u otros juegos. Pero esto no significa que la computadora utilice la intuicion y el entedimiento para realizar estas tareas.
+
+### **LA OBJECION MATEMATICA**
+A traves de trabajos de Turing y Gobel podemos afirmar que ciertas cuestiones matematicas no pueden ser respondidas en sistemas formales.
+El teorema de la incomplenitud de Gobel es el mas conocido al respecto. Muchos filosoficos afirmaban que gracias a este teorema se demostraba la inferioridad de las maquinas. A partir de esto vamos a analizar tres de los problemas de esta afirmacion
+
+**En primer lugar:** El teorema solo se aplica a sistemas formales que son lo suficientemente potentes como para realizar aritmetica, como las maquinas de Turing. Es una buena aproximacion pero no del todo verdadera. Dichas maquinas son infinitas mientras que las maquinas son finitas y pueden describirse como un sistema en logica proposicional
+**En segundo lugar:** Un agente no deberia preocuparse por no poder establecer la verdad de una sentencia mientras que otros si puedan
+**En tercer lugar:** Aunque se reconozca que las computadoras tienen limitaciones sobre lo que pueden demostrar, no existen evidencias de que los hombres sean inmunes ante esas limitaciones.
+*Es realmente sencillo demostrar con rigor que un sistema formal no puede hacer X, y afirmar entonces que los hombres pueden hacer X utilizando sus propios métodos informales, sin dar ninguna evidencia
+de esta afirmación*
+
+###**EL ARGUMENTO DE LA INFORMALIDAD**
 
