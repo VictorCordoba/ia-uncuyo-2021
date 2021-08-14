@@ -1,6 +1,8 @@
 # TRABAJO PRATICO N°1 
 ## CORDOBA VICTOR - 12480
 
+MAPA MENTAL: https://www.mindomo.com/mindmap/b9ee6a8135414b7e9a45ac07341b8af9
+
 ### **FUNDAMENTOS FILOSOFICOS**
 Los filosofos definen la hipotesis de la IA debil como la afirmacion que es posible que las maquinas *actuen* con inteligencia, o mas bien como si fueran inteligentes y tambien existe la hipotesis de la IA Fuerte que afirma que las maquinas *piensan* realmente
 
@@ -84,5 +86,6 @@ Como opinion personal del capitulo me parecio interesante ambos enfoques que se 
 
 El desarrollo de sistemas de IA es un tema muy importante en la actualidad donde ayuda a avanzar en diversas areas de las ciencias y las tecnologias, debido a esto se deben tomar con resposabilidad tomando todos los recaudos posibles para que no se tenga malas intenciones ni malos alcances con dichas tecnologias. Se debe utilizar como una herramienta de avance y desarrollo
 
+Otro tema que me parecio interesante fue como las IA ayudaron a automatizar gran parte de las areas de trabajo, hay estudios que hablan que en Estados Unidos mas del 45% de los trabajos corren el riesgo que sean automatizados por computadoras. Un informe del Foro Economico Mundial detalla que se habrian eliminado por lo menos 7 millones de empleos en consecuencia de la automatizacion y eso demuestra y hace referencia al gran avance que estan teniendo estas tecnologias en el mundo y que con un buen desarrollo los trabajos y los puestos que conocemos hoy en dia girarian totalmente dando pie a nuevas posibilidades
 
 
