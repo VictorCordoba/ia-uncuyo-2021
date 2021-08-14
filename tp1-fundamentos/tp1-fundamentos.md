@@ -55,6 +55,34 @@ La teoria del funcionalismo afirma que un estado mental es cualquier condicion c
 
 La teoría del naturalismo biológico dice que los estados mentales son características emergentes de alto nivel originadas por procesos neurológicos de bajo nivel en las neuronas, y lo que importa son las propiedades (no especificadas) de las neuronas
 
-### **EL PROBLEMA DE MENTE - CUERPO**
+### **LA ETICA Y LOS RIESGO DE DESARROLLAR LA IA**
+
+Hasta ahora nos hemos concentrado en si podemos desarrollar la IA, pero debemos también tener en cuenta si deberíamos hacerlo. Si es más probable que los efectos de la tecnología de la IA sean más negativos que positivos, sería responsabilidad moral de los trabajadores en su campo redirigir su investigación.
+
+Vamos a examinar en orden cada uno de estos temas
+
+**Las personas podrían perder sus trabajos por la automatización.**
+La economía industrial moderna ha llegado a depender en general de los computadores, y selecciona programas de IA en particular. Se podria decir que miles de trabajaroes han sido desplazados por programas de IA, pero tambien hay muchos de estos trabajos que no existirian sin estos programas ya que la mano de obra humana generaria mas costos 
+
+**Las personas podrían tener demasiado (o muy poco) tiempo de ocio**
+La IA aumenta el ritmo de innovacion tecnologica y contribuye en la tendacia general pero tambien mantiene la promesa de permitirnos ahorrar tiempo y que nuestros agentes automatizados hagan las cosas por un tiempo
+
+**Las personas podrían perder el sentido de ser únicos.**
+Weizenbaum en su libro señala algunas de las posibles amenazas que supone la IA para la sociedad.  Uno de los argumentos principales de Weizenbaum es que la investigación en IA hace posible la idea de que los hombres sean autómatas, una idea que produce pérdida de autonomía o incluso de humanidad. 
+
+**Las personas podrían perder algo de sus derechos privados**
+Algunas personas reconocen que la computerización conduce a la pérdida de privacidad, aunque algunos piensan que de cualquier forma tenemos privacidad cero, otros no están de acuerdo y afirman que la privacidad es un derecho que debe tenerse en cuenta
+
+**La utilización de los sistemas de IA podría llevar a la pérdida de responsabilidad.**
+Se toma en cuenta quien tomara la culpa de algun fallo o error de un sistema de IA y las leyes citadas en el libro parecen no tomar en cuenta la adaptacion a los nuevos desarrollos actuales.
+
+**El éxito de la IA podría significar el fin de la raza humana**
+Cualquier tecnología tiene el potencial de hacer daño si se encuentra en las manos equivocadas, pero con la IA y la robótica, tenemos el problema nuevo de que las manos equivocadas podrían pertenecer a dicha tecnología.
+
+# **OPINION PERSONAL** 
+Como opinion personal del capitulo me parecio interesante ambos enfoques que se le dieron a las IA, tanto la debil como la fuerte. Siento que si un programa es eficiente y cumple con el resultado que se busca en su sistema de IA no interesa si se esta hablando de una simulacion o realmente de un pensamiento o intuicion de la maquina. 
+
+El desarrollo de sistemas de IA es un tema muy importante en la actualidad donde ayuda a avanzar en diversas areas de las ciencias y las tecnologias, debido a esto se deben tomar con resposabilidad tomando todos los recaudos posibles para que no se tenga malas intenciones ni malos alcances con dichas tecnologias. Se debe utilizar como una herramienta de avance y desarrollo
+
 
 
