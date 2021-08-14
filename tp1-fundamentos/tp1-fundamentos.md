@@ -26,5 +26,19 @@ El teorema de la incomplenitud de Gobel es el mas conocido al respecto. Muchos f
 *Es realmente sencillo demostrar con rigor que un sistema formal no puede hacer X, y afirmar entonces que los hombres pueden hacer X utilizando sus propios métodos informales, sin dar ninguna evidencia
 de esta afirmación*
 
-###**EL ARGUMENTO DE LA INFORMALIDAD**
+### **EL ARGUMENTO DE LA INFORMALIDAD**
+El comportamiento humano es demasiado complejo para poder captarse mediante un simple juego de reglas y como las computadoras solo pueden seguir un conjunto de reglas no pueden generar un comportamiento tan inteligente como los hombres, esto se llama *Problema de cualificacion*
+
+Esta posicion fue llamada como *GOOD OLD FASHIOND AL* esta afirma que todo comportamiento inteligente puede ser capturado por un sistema que razona logicamente a partir de un conjunto de hechos y reglas que describen el dominio 
+
+Dreyfus y Dreyfus proponen una arquitectura de redes neurales pero señalan algunos problemas: 
+
+*1  No se puede lograr una generalización buena de ejemplos sin un conocimiento básico. Afirman que no se sabe cómo incorporar el conocimiento básico en el proceso de aprendizaje de las redes neuronales
+*2  El aprendizaje de redes neuronales es una forma de aprendizaje supervisado que requiere la identificación de las entradas relevantes y las salidas correctas.
+*3  Los algoritmos de aprendizaje no funcionan bien con muchas funciones, si seleccionamos un subgrupo de éstas. Métodos nuevos tales como las máquinas vectoriales de soporte utilizan muy bien conjuntos grandes de funciones
+*4  El cerebro es capaz de dirigir sus sensores para buscar la información relevante
+y procesarla para extraer aspectos relevantes para la situación actual
+
+
+
 
